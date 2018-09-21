@@ -59,7 +59,7 @@ namespace Sitecore.Support.Publishing.Service.Delivery
         PublishingLog.Info("Starting search index rebuild job for " + indexName);
 
         var job = _indexCustodian.FullRebuild(searchIndex, true);
-        job.Wait();
+        job.Finished += (o, eventArgs) => 
 
         PublishingLog.Info("Finished search index rebuild job for " + indexName);
       }
