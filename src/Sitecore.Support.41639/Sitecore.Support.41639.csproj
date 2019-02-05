@@ -46,20 +46,20 @@
       <HintPath>..\packages\SC.Sitecore.ContentSearch.9.0.1\lib\Sitecore.ContentSearch.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.Framework.Conditions, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SPS.Sitecore.Framework.Conditions.2.2.0\lib\Sitecore.Framework.Conditions.dll</HintPath>
+    <Reference Include="Sitecore.Framework.Conditions, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SC.Sitecore.Framework.Conditions.9.0.1\lib\Sitecore.Framework.Conditions.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel">
       <HintPath>..\packages\SC.Sitecore.Kernel.9.0.1\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.Publishing.Service">
-      <HintPath>..\packages\SPS.Sitecore.Publishing.Service.2.2.0\lib\Sitecore.Publishing.Service.dll</HintPath>
+    <Reference Include="Sitecore.Publishing.Service, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SPS.Sitecore.Publishing.Service.3.1.1\lib\Sitecore.Publishing.Service.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.Publishing.Service.Abstractions, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SPS.Sitecore.Publishing.Service.Abstractions.2.2.0\lib\Sitecore.Publishing.Service.Abstractions.dll</HintPath>
+    <Reference Include="Sitecore.Publishing.Service.Abstractions, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SPS.Sitecore.Publishing.Service.Abstractions.3.1.1\lib\Sitecore.Publishing.Service.Abstractions.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
